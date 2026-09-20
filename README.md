@@ -27,4 +27,4 @@ Extra About Me:
 * I enjoy image editing, digital art, and occasionally photography
 * I like to create CTF challenges on a ctfd.io website
 * I've created a few mods for the physics sandbox BeamNG.Drive in the past, and currently looking into how to create .jbeam files properly
-* I really love cars, especially modified minivans #VanKulture
+* I really love cars, especially modified minivans (#VanKulture)
