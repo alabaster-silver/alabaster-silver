@@ -6,7 +6,7 @@ Supporter of open-source software and free-use projects (in code, writing, and o
 ---
 
 Certifications
-| AWS Cloud Practitioner
+* | AWS Cloud Practitioner
 | CompTIA Security+
 | CompTIA CySA+ (WIP)
 | Looking to work on gaining more certifications soon
